@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>lng</key>
+		<string>-79.385865</string>
+		<key>lat</key>
+		<string>43.642424</string>
+		<key>url</key>
+		<string>http://www.ripleyaquariums.com/canada/</string>
+		<key>title</key>
+		<string>Ripley&apos;s Aquarium</string>
+		<key>imgtitle</key>
+		<string>aquarium.png</string>
+	</dict>
+	<dict>
+		<key>lng</key>
+		<string>-79.387057</string>
+		<key>lat</key>
+		<string>43.642566</string>
+		<key>url</key>
+		<string>http://www.cntower.ca/en-ca/home.html</string>
+		<key>title</key>
+		<string>CN Tower</string>
+		<key>imgtitle</key>
+        <string>cntower.jpg</string>
+	</dict>
+	<dict>
+		<key>lng</key>
+		<string>-79.18589</string>
+		<key>lat</key>
+		<string>43.817699</string>
+		<key>url</key>
+		<string>http://www.torontozoo.com/</string>
+		<key>title</key>
+		<string>Toronto Zoo</string>
+		<key>imgtitle</key>
+        <string>torontozoo.jpg</string>
+	</dict>
+	<dict>
+		<key>lng</key>
+		<string>-79.394777</string>
+		<key>lat</key>
+		<string>43.66771</string>
+		<key>url</key>
+		<string>http://www.rom.on.ca/en</string>
+		<key>title</key>
+		<string>Royal Ontario Museum</string>
+		<key>imgtitle</key>
+        <string>rom.jpg</string>
+	</dict>
+	<dict>
+		<key>lng</key>
+		<string>-79.392512</string>
+		<key>lat</key>
+		<string>43.653607</string>
+		<key>url</key>
+		<string>http://www.ago.net/</string>
+		<key>title</key>
+		<string>Art Gallery of Ontario</string>
+		<key>imgtitle</key>
+        <string>artgalleryontario.jpg</string>
+	</dict>
+	<dict>
+		<key>lng</key>
+		<string>-79.453206</string>
+		<key>lat</key>
+		<string> 43.725887</string>
+		<key>url</key>
+		<string>http://yorkdale.com/</string>
+		<key>title</key>
+		<string>Yorkdale Mall</string>
+		<key>imgtitle</key>
+        <string>yorkdalemall.jpg</string>
+	</dict>
+	<dict>
+		<key>lng</key>
+		<string>-79.381455</string>
+		<key>lat</key>
+		<string>43.653597</string>
+		<key>url</key>
+		<string>http://www.torontoeatoncentre.com/en/Pages/default.aspx</string>
+		<key>title</key>
+		<string>Eaton Center</string>
+		<key>imgtitle</key>
+        <string>torontoeatoncentre.jpg</string>
+	</dict>
+	<dict>
+		<key>lng</key>
+		<string>-79.38409</string>
+		<key>lat</key>
+		<string> 43.65344</string>
+		<key>url</key>
+		<string>http://www.toronto.ca/</string>
+		<key>title</key>
+		<string>City Hall</string>
+		<key>imgtitle</key>
+        <string>torontocityhall.jpg</string>
+	</dict>
+	<dict>
+		<key>lng</key>
+		<string>-79.377264</string>
+		<key>lat</key>
+		<string>43.646988</string>
+		<key>url</key>
+		<string>http://www.hhof.com/</string>
+		<key>title</key>
+		<string>Hockey Hall of Fame</string>
+		<key>imgtitle</key>
+        <string>halloffame.jpg</string>
+	</dict>
+	<dict>
+		<key>lng</key>
+		<string>-79.379099</string>
+		<key>lat</key>
+		<string>43.643466</string>
+		<key>url</key>
+		<string>http://www.theaircanadacentre.com/</string>
+		<key>title</key>
+		<string>Air Canada Center</string>
+		<key>imgtitle</key>
+        <string>aircanadacentre.jpg</string>
+	</dict>
+</array>
+</plist>
