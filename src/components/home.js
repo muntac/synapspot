@@ -44,7 +44,6 @@ export default class Home extends Component{
   }
 
   generateThumbnails(image){
-    // place.value.imgtitle.value
     console.log(image.value.imgtitle.value);
     return (
 
@@ -64,7 +63,7 @@ export default class Home extends Component{
     return(
       <div>
         <div className="col-lg-12">
-          <h3 className="page-header">Thumbnail Gallery</h3>
+          <h3 className="page-header">Places to visit in Toronto</h3>
         </div>
         <br /><br />
         <div className="row">
