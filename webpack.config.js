@@ -11,7 +11,8 @@ module.exports = {
     loaders: [{
       exclude: /node_modules/,
       loader: 'babel'
-    }]
+    }
+    ]
   },
   resolve: {
     extensions: ['', '.js', '.jsx']
@@ -19,5 +20,8 @@ module.exports = {
   devServer: {
     historyApiFallback: true,
     contentBase: './'
+  },
+  node: {
+	    fs: "empty"
   }
 };
