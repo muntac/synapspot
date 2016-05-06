@@ -21,6 +21,7 @@ export default class Register extends Component{
     if(this.state.username == '' || this.state.password == '')
       return false;
     else{
+      //User creation
       var ref = new Firebase("https://luminous-torch-4088.firebaseio.com");
       ref.createUser({
         email: this.state.username,

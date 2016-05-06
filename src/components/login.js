@@ -21,6 +21,7 @@ export default class Login extends Component{
     if(this.state.username == '' || this.state.password == '')
       return false;
     else{
+      //User Authentication
       var ref = new Firebase("https://luminous-torch-4088.firebaseio.com");
       ref.authWithPassword({
         email: this.state.username,
@@ -31,7 +32,7 @@ export default class Login extends Component{
           return false;
         } else {
           console.log("Successfully logged in:", userData.uid);
-          //Redirect
+          //Redirect to gallery
           this.context.router.push('/home');
         }
       });

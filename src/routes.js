@@ -5,12 +5,8 @@ import Register from './components/register';
 import Home from './components/home';
 
 import App from './components/app';
-// import AppIndex from './components/app_index';
 
-const grey = () => {
-  return (<div><h1>Login Here</h1></div>);
-};
-// <Route path="login" component={login} />
+
 export default(
   <Route path="/" component={App} >
     <Route path="login" component={Login} />
