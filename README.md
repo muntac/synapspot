@@ -7,5 +7,6 @@
 	> npm start
 ```
 
-Login Page - localhost:8080/login
-Create Account - localhost:8080/login
+<b>Login Page</b> - localhost:8080/login
+<br/>
+<b>Create Account</b> - localhost:8080/register
